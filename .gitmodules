@@ -1,3 +1,6 @@
 [submodule "Frontend"]
 	path = Untitled-Collab-Project-Frontend
 	url = https://github.com/Karczel/Untitled-Collab-Project-Frontend
+[submodule "Backend"]
+	path = Untitled-Collab-Project-Backend
+	url = https://github.com/Karczel/Untitled-Collab-Project-Backend
