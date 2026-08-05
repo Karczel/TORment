@@ -1,6 +1,7 @@
-[submodule "Frontend"]
+[submodule "frontend"]
 	path = Untitled-Collab-Project-Frontend
 	url = https://github.com/Karczel/Untitled-Collab-Project-Frontend
-[submodule "Backend"]
-	path = Untitled-Collab-Project-Backend
-	url = https://github.com/Karczel/Untitled-Collab-Project-Backend
+
+[submodule "backend"]
+	path = csp-backend
+	url = https://github.com/GotAdithep/csp-backend
