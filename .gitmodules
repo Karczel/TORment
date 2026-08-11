@@ -1,6 +1,6 @@
 [submodule "frontend"]
-	path = Untitled-Collab-Project-Frontend
-	url = https://github.com/Karczel/Untitled-Collab-Project-Frontend
+	path = TORment-Frontend
+	url = https://github.com/Karczel/TORment-Frontend
 
 [submodule "backend"]
 	path = csp-backend
